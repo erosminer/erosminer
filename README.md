@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @erosminer
+- 👀 I’m interested in coding!
+- 🌱 I’m currently learning bioinfomatics.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me:erosminer@88.com
